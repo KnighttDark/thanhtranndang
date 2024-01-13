@@ -32,9 +32,9 @@
 <h2 align="center">⚡ Languages-Frameworks-Tools ⚡</h2>
 <br/>
 <div align="center">
-     <img src="https://skillicons.dev/icons?i=ps,ai,pr,visualstudio,vscode,arduino" /><br>
     <img src="https://skillicons.dev/icons?i=c,cpp,javascript" /><br>
-    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,github,figma,tailwind,git" /><br>
+     <img src="https://skillicons.dev/icons?i=ps,ai,pr,visualstudio,vscode,arduino" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,react,nodejs,express,mongodb,figma" /><br>
 </div>
 
 <br/>
